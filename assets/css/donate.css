@@ -1,0 +1,27 @@
+.payment-card{
+    border-radius: 10px;
+    box-shadow: 5px 10px 20px #dbd9d9;
+    border: none;
+}
+.banking-name{
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(238, 93, 10);
+}
+.phone-number-box{
+    
+    background-color: whitesmoke;
+    border-radius: 35px;
+    padding: 10px;
+}
+.phone-number{
+    color: rgb(0, 153, 255);
+}
+.banking-section{
+    background-color: whitesmoke;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
